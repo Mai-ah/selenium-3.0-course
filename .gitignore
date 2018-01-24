@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/selenium-3.0-course.iml
+.idea/modules.xml
+.idea/misc.xml
